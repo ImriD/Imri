@@ -1,5 +1,6 @@
-*Guide for runing SLEAP on a remout server:*
-the guide was developed for bilding a remoute machine for tracking Sunflour moovment using AI progrem (SLAEP.AI) in Linode platform using Obunto 18:
+[*Guide for runing SLEAP on a remout server:*]
+
+[the guide was developed for bilding a remoute machine for tracking Sunflour moovment using AI progrem (SLAEP.AI) in Linode platform using Obunto 18:]
 
 start by connecting to your linode
 `ssh root@(your.linode.IP)`
